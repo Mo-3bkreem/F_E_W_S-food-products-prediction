@@ -18,3 +18,10 @@ An AI-powered system for predicting food price fluctuations and detecting market
 ## How to Run
 pip install -r requirements.txt
 streamlit run app.py
+# FEWS - Food Early Warning System
+
+##  LIVE APP
+https://fews-food-appucts-prediction-nyqcjcuxsivqyjxmtcwecp.streamlit.app
+
+##  Overview
+AI system for predicting food prices...
